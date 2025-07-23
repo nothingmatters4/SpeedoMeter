@@ -43,7 +43,7 @@
 
 | Light Theme                              | Dark Theme                               |
 |-------------------------------------------|-------------------------------------------|
-| ![Light](screenshots/light-theme.png)     | ![Dark](screenshots/dark-theme.png)      |
+| ![Light](light-theme.png)     | ![Dark](dark-theme.png)      |
 
 ---
 
